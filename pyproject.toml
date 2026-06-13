@@ -10,5 +10,6 @@ dependencies = [
     "langgraph>=0.4.8",
     "langsmith>=0.3.45",
     "notebook>=7.4.3",
+    "pandas>=3.0.3",
     "python-dotenv>=1.1.0",
 ]

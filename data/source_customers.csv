@@ -1,0 +1,5 @@
+cust_id,cust_name,email,age,signup_date,country
+1,Aarav Sharma,aarav@example.com,28,2024-01-10,India
+2,Meera Patel,meera@example.com,31,2024-02-15,India
+3,John Doe,john@example.com,35,2024-03-20,USA
+4,Sara Khan,sara@example.com,26,2024-04-05,UAE
